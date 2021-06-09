@@ -5,6 +5,6 @@ Introduction to recursion:
     1. Factorial
     1. Fibonacci series 
 Exercises:
-1. Adding up elements of an array
+1. Recursive array sum
 1. Recursive linear search
-1. Binary search
+1. Recursive binary search
